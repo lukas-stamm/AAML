@@ -1,5 +1,5 @@
 [x] First round of modelling
-[ ] Add aditional model (Composite modelling)
-[ ] Add cross validation
+[x] Add aditional model (Composite modelling)
+[x] Add cross validation
 
-Optional: Improve visualization and feature selection/processing
+[ ] Improve visualization and feature selection/processing
